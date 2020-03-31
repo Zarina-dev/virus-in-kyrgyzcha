@@ -1,0 +1,82 @@
+body{
+
+  text-align: center;
+  background-color: #f3f3f3;
+  line-height: 50px;
+}
+
+.topbar-container{
+  background-color:#142850;
+  color: white;
+  width: 100%;
+  height: 20rem;
+  margin-top: 0 auto 0 0;
+  padding-top: 70px ;
+}
+a{
+  color: white;
+}
+.описание{
+  line-height: 1.25rem;
+  width: 40%;
+  margin: auto;
+  font-size: 13px;
+
+}
+.general-inform-container{
+
+  width: 100%;
+  height: 37.5rem;
+  margin-top: 0;
+}
+.general-inform-container .gen-table{
+  margin: auto;
+}
+
+.general-inform-container .gen-table td{
+  padding: 40px;
+}
+h1{
+  margin:20px auto 60px auto;
+}
+h2{
+  margin: 20px auto;
+}
+
+
+
+.about-all-table{
+  margin: auto;
+  text-align: left;
+}
+.about-all-table table {
+border-collapse: collapse;
+
+}
+.about-all-table{
+  padding:6rem;
+  border-spacing: 2.5rem;
+}
+
+
+
+
+
+.bottom-container{
+  background-color: #142850;
+  color: white;
+  padding: 20px ;
+  position: absolute;
+  margin: 0;
+  line-height: 1.3rem;
+
+}
+h6{
+  margin-top: 20px;
+}
+
+hr{
+  border-style: none;
+  height: 1.5px;
+  background-color:#142850;
+}
