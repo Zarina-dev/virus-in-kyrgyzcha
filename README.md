@@ -1,0 +1,1 @@
+# virus-in-kyrgyz
